@@ -30,4 +30,4 @@ ________________________________________________________________________________
 
 ## Objetivo 🎯
 
-### El objetivo es centralizar y optimizar la gestión del inventario a través del análisis de datos históricos y la automatización de procesos. Se busca implementar un sistema que permita tomar decisiones estratégicas basadas en datos, detectar sobrestock o faltantes, y mejorar la disponibilidad de productos. El valor agregado está en transformar datos desorganizados en información útil para prever la demanda y reducir costos operativos.
+#### El objetivo es centralizar y optimizar la gestión del inventario a través del análisis de datos históricos y la automatización de procesos. Se busca implementar un sistema que permita tomar decisiones estratégicas basadas en datos, detectar sobrestock o faltantes, y mejorar la disponibilidad de productos. El valor agregado está en transformar datos desorganizados en información útil para prever la demanda y reducir costos operativos.
