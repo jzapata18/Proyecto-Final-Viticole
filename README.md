@@ -30,4 +30,39 @@ ________________________________________________________________________________
 
 ## Objetivo 🎯
 
-#### El objetivo es centralizar y optimizar la gestión del inventario a través del análisis de datos históricos y la automatización de procesos. Se busca implementar un sistema que permita tomar decisiones estratégicas basadas en datos, detectar sobrestock o faltantes, y mejorar la disponibilidad de productos. El valor agregado está en transformar datos desorganizados en información útil para prever la demanda y reducir costos operativos.
+#### · Examinar y mejorar la administración de inventarios.
+#### · Disminuir gastos.
+#### · Optimizar la rotación de existencias.
+#### · Detectar patrones y tendencias en la venta de los productos.
+#### · Proveer conocimientos valiosos para la toma de decisiones.
+
+## Descripción del repositorio 📋
+
+#### · Diagrama Entidad-Relacion
+#### · ETL-EDA
+#### · Base de datos de la empresa Viticole
+#### · README.md
+
+## Tecnologias Utilizadas 👨🏻‍💻
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+</div>
+
+###
