@@ -92,7 +92,7 @@ ________________________________________________________________________________
   <img src="https://www.kaggle.com/static/images/logos/kaggle-logo-transparent-300.png" height="40" alt="Kagle logo"  />
   <img width="12" />
   <img src="https://logos-world.net/wp-content/uploads/2021/03/Azure-Logo-2020-present.png" height="40" alt="Azure logo"  />
- 
+ <img width="12" />
   <img src="https://1000logos.net/wp-content/uploads/2022/12/Power-BI-Logo-2013.png" height="40" alt="powerbi logo"  />
 </div>
 </div>
