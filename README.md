@@ -38,22 +38,13 @@ ________________________________________________________________________________
 
 ## Descripción del repositorio 📋
 
+#### · Dashboard
 #### · Diagrama Entidad-Relacion
 #### · ETL-EDA
-#### · Base de datos de la empresa Viticole
+#### · Logos
+#### · Mockup
+#### · Presentación
 #### · README.md
-
-## Carperta Diagrama Entidad-Relación
-
-#### Contiene la imagen correspondiente al DER de la base de datos InventarioDB, generados en SQL Server Management.
-
-## Carperta Logos
-
-#### Contiene el logo de la empresa comercializadora de bebidad alcoholicas Viticole y el logo de la nuestra empresa encargada de la optimización de inventario Datavisual.
-
-## ETL - EDA
-
-#### Aquí se cargaron los seis archivos (.ipynb) correspondientes a los procesos de de EDA y ETL de cada dataframe de la base de datos.
 
 ## Tecnologias Utilizadas 👨🏻‍💻
 
@@ -69,6 +60,8 @@ ________________________________________________________________________________
 #### · Trello: Se utiliza para la gestión de proyectos, la organización de tareas y la colaboración en equipo, permitiendo visualizar el progreso y las responsabilidades de cada miembro del equipo.
 #### · Bizagi: Es una suite de software de gestión de procesos de negocio (BPM) que permite modelar, automatizar y optimizar procesos empresariales.
 #### · Power BI: Se utiliza para crear informes interactivos y paneles de control, analizar datos y tomar decisiones basadas en datos.
+#### · Kagle: Es una plataforma de aprendizaje y competencia en ciencia de datos.
+#### · Azure: Es un conjunto de servicios en la nube de Microsoft. Tiene herramientas como Azure Machine Learning, Azure Logic Apps y Azure Functions, que permiten la implementación, escalabilidad y mantenimiento de modelos de IA y procesos automatizados sin necesidad de gestionar infraestructura física.
 
 _________________________________________________________________________________________________________________________
 ###
@@ -95,6 +88,10 @@ ________________________________________________________________________________
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
   <img width="12" />
   <img src="https://www.baixesoft.com/wp-content/uploads/2017/06/Bizagi-Modeler-icone.png" height="40" alt="bizagi logo"  />
+  <img width="12" />
+  <img src="https://www.kaggle.com/static/images/logos/kaggle-logo-transparent-300.png" height="40" alt="Kagle logo"  />
+  <img width="12" />
+  <img src="[https://www.baixesoft.com/wp-content/uploads/2017/06/Bizagi-Modeler-icone.png](https://www.pngmart.com/files/23/Azure-Logo-PNG-Clipart.png)" height="40" alt="Azure logo"  />
  
   <img src="https://1000logos.net/wp-content/uploads/2022/12/Power-BI-Logo-2013.png" height="40" alt="powerbi logo"  />
 </div>
